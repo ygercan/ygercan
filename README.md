@@ -37,3 +37,20 @@ moon-photo-assistant/
 │
 ├─ package.json
 └─ README.md
+
+
+[Home / Kamera Yardımcısı]
+       |
+       |-- (Alt bar: Kütüphane) --> [Çekim Kütüphanesi]
+       |                                 |
+       |                                 |-- (Fotoğraf seç) --> [Fotoğraf Detayları]
+       |                                                         |
+       |                                                         |-- (Not ekle / kaydet)
+       |
+       |-- (Alt bar: Ay fazı detay butonu) --> [Ay Bilgi ve İpuçları]
+       |
+       |-- (Planlama butonu / Menü) --> [Planlama Ekranı]
+       |                                 |
+       |                                 |-- (Gelecek gün seçimi) --> Detay bilgiler (azimut, yükseklik, önerilen çekim saati)
+       |
+       |-- (Push Notification) --> Kullanıcıya uyarı / yönlendirme

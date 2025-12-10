@@ -17,3 +17,8 @@ export default function AppNavigator() {
     </Stack.Navigator>
   );
 }
+
+import PhotoDetailScreen from '../screens/PhotoDetailScreen';
+
+// Stack.Navigator içine ekle
+<Stack.Screen name="PhotoDetail" component={PhotoDetailScreen} />
