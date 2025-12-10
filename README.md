@@ -39,6 +39,8 @@ moon-photo-assistant/
 └─ README.md
 
 
+
+
 [Home / Kamera Yardımcısı]
        |
        |-- (Alt bar: Kütüphane) --> [Çekim Kütüphanesi]
